@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leyth
-- 👀 Passionate by mathematics, I’m interested in statistics, machine and deep learning
+- 👀 Passionate about mathematics, I’m interested in statistics, machine learning and deep learning
 - 🌱 I’m currently learning about sound classification techniques
 - 💞️ I’m looking to collaborate on machine learning projects for medical application
 - 📫 You can reach me here : leyth_akrout@yahoo.com
